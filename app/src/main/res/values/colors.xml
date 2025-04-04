@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF808080</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="offwhite">#FFFAFAFA</color>
+    <color name="halfwhite">#E6FFFFFF</color>
+    orange
+    <color name="orange">#FFFFA500</color>
+    <color name="lightorange">#FFFFD700</color>
+    <color name="darkorange">#FFFF6600</color>
+    <color name="lightgreen">#FF00FF00</color>
+    <color name="darkgreen">#FF00A619</color>
+    <color name="lightblue">#FF0000FF</color>
+    <color name="lightgray">#FFD3D3D3</color>
+
+
+
+    <color name="cardview_light_background">#FFFAFAFA</color>
+
+    <color name="green">#FF00FF00</color>
+    <color name="red">#FFFF0000</color>
+    dark red
+    <color name="darkred">#FF800000</color>
+    <color name="transparent">#00FFFFFF</color>
+<!--    yellow-->
+    <color name="yellow">#FFD700</color>
+    <color name="ccred">#D72000</color>
+    <color name="ccgreen">#00A619</color>
+
+    <color name="promotion_bg">#FFA500</color>
+    <color name="discount_color">#FFFFFF</color>
+    <color name="order_button_color">#FFA500</color>
+
+</resources>

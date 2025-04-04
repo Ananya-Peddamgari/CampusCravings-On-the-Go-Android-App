@@ -1,0 +1,6 @@
+<resources>
+    <style name="RoundedChipShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item> <!-- Adjust this value for the corner radius -->
+    </style>
+</resources>

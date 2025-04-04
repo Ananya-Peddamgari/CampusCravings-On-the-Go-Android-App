@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CampusCravingsOnMobile</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="menu">menu\n</string>
+    <string name="order">order\n</string>
+    <string name="profile">profile</string>
+    <string name="add_item">add</string>
+    <string name="orders">orders\n</string>
+    <string name="app_logo">App Logo</string>
+    <string name="addsign">+</string>
+    <string name="veg_only">Veg Only</string>
+    <string name="menuview">Menu</string>
+    <string name="cart">cart\n</string>
+    <string name="history">history\n</string>
+    <string name="Home">Home</string>
+    <string name="Menu">Menu</string>
+    <string name="Cart">Cart</string>
+    <string name="Profile">Profile</string>
+</resources>

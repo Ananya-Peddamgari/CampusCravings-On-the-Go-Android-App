@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823862489503",
+    "firebase_url": "https://campus-cravings-on-the-go-default-rtdb.firebaseio.com",
+    "project_id": "campus-cravings-on-the-go",
+    "storage_bucket": "campus-cravings-on-the-go.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823862489503:android:09e6d076425b991f3c8daa",
+        "android_client_info": {
+          "package_name": "com.example.campuscravingsonmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823862489503-bh0hi0trrb3q4bnghh2s83s3mii2r3b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQ6DaTcK9nd8Z1WAEi6MRfkw7CIhshFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823862489503-bh0hi0trrb3q4bnghh2s83s3mii2r3b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823862489503-135pnam3i5p1u6ekttk9ref6crmoff4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

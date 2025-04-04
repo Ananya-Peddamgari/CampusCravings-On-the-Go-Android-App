@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/transparent"
+    android:gravity="center"> <!-- Off-white background color -->
+
+    <ImageView
+        android:id="@+id/splashImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/foodbg" /> <!-- Background image -->
+
+    <ImageView
+        android:id="@+id/splashLogoImageView"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/campuscravings_logo_redgreen" /> <!-- Replace with your logo -->
+
+    <TextView
+        android:id="@+id/splashTextView"
+        android:layout_width="278dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/splashLogoImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Craving something? We're just a tap away"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/splashTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="designed by Rachit Jain and Team"
+        android:gravity="center"/>
+
+</RelativeLayout>
